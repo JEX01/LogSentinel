@@ -303,9 +303,9 @@ Add screenshots after deployment to demonstrate functionality and improve projec
 
 **Your Name**
 
-GitHub: https://github.com/yourusername
+GitHub: [https://github.com/JEX01/](https://github.com/JEX01/)
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/jeet-patel-92b034295/)
 
 ---
 
